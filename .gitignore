@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow these folders
+!Basics/
+!Intermediate/
+
+# Allow SQL files inside them
+!Basics/**/*.sql
+!Intermediate/**/*.sql
+
+# Allow README and gitignore
+!README.md
+!.gitignore
