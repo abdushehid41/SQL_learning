@@ -6,8 +6,8 @@
 !Intermediate/
 
 # Allow SQL files inside them
-!Basics/**/*.sql
-!Intermediate/**/*.sql
+!Basics/*.sql
+!Intermediate/*.sql
 
 # Allow README and gitignore
 !README.md
