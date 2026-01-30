@@ -23,7 +23,15 @@ _More advanced techniques for complex data analysis._
 - **Set Operations**: Utilizing `UNION`, `EXCEPT`, and `INTERSECT`.
 - **Built-in Functions**: Working with **String** manipulation and **Date & Time** functions.
 
+# 📁 Projects
+
+- **[LeetCode SQL 50](./LeetCode_Challenges)** - Solutions to the SQL 50 study plan using **MS SQL Server (T-SQL)**. Organized by category (Select, Joins, etc.).
+
 ---
+
+### Why I'm building this:
+
+To document my growth in T-SQL and show my ability to solve complex data logic problems consistently.
 
 ## 🛠 Tools & Tech
 
@@ -42,4 +50,4 @@ _More advanced techniques for complex data analysis._
 
 ---
 
-_Created by [Abdushehid] - 2026
+Created by Abdushehid - 2026
