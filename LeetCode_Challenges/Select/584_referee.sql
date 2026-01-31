@@ -1,6 +1,6 @@
--- Problem: 584. Find Customer Referee
--- Link:  https://leetcode.com/problems/find-customer-referee
-# Write your MySQL query statement below
+
+/*Write your MySQL query statement below  */
+
 SELECT 
      name
 FROM 

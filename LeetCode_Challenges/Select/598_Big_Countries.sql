@@ -1,7 +1,7 @@
--- Problem: 598. Big Countries
--- Link: https://leetcode.com/problems/big-countries
 
-# Write your MySQL query statement below
+
+/* Write your MySQL query statement below */
+
 SELECT 
    name, 
    population,
